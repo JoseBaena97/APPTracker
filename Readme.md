@@ -71,6 +71,6 @@ El sistema confirma la repetición solo si el ángulo resultante está dentro de
 
 ---
 
-## 👤 Autor
-**José Baena** - [@JoseBaena97](https://github.com/JoseBaena97)
-**Alicia López** - [@Alicia2202](https://github.com/Alicia2202)
+## 👤 Autores
+* **José Baena** - [@JoseBaena97](https://github.com/JoseBaena97)
+* **Alicia López** - [@Alicia2202](https://github.com/Alicia2202)
